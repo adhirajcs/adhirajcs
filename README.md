@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adhiraj
 #### A MCA 1st Year student from India
-![A MCA 1st Year student from India](https://media.licdn.com/dms/image/C4D16AQGQgp_rdtbNPw/profile-displaybackgroundimage-shrink_350_1400/0/1658503590870?e=1678320000&v=beta&t=4R-o5KHAkouv7niqoXQlWxObQaYoBbKuiZz6fNl8IFY)
+![A MCA 1st Year student from India](https://media.licdn.com/dms/image/C4D16AQGQgp_rdtbNPw/profile-displaybackgroundimage-shrink_350_1400/0/1658503590870?e=1684972800&v=beta&t=2Wltapsb-ssrEzwGST3OiVt379WmFMOr4gYpVYFEizM)
 
 - 🔭 I’m currently Studying MCA at **Heritage Institute of Technology Kolkata**
 
