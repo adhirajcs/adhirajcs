@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adhirajsaha](https://www.linkedin.com/in/adhirajsaha)
+- 📄 Know about my experiences [linkedin.com/in/adhirajsaha](https://www.linkedin.com/in/adhirajsaha)
 
 - ⚡ Fun fact **I love Music and PC games.**
 
