@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adhiraj
-#### A MCA 1st Year student from India
-![A MCA 1st Year student from India](https://media.licdn.com/dms/image/C4D16AQGQgp_rdtbNPw/profile-displaybackgroundimage-shrink_350_1400/0/1658503590870?e=1691020800&v=beta&t=6LqsqGRMODeeyuBFWhD07rMYVsMlgLrfSwW9vOZeX2Q)
+#### A MCA 2nd Year student from India
+![](https://media.licdn.com/dms/image/C4D16AQGQgp_rdtbNPw/profile-displaybackgroundimage-shrink_200_800/0/1658503590870?e=2147483647&v=beta&t=b9tPq4t3OILJdhW2kbnqGLOX5BazwR5U1rLA4NKgxts)
 
 - 🔭 I’m currently Studying MCA at **Heritage Institute of Technology Kolkata**
 
@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I love Music and PC games.**
 
 
-Skills: android, angular, bash, c, c++, css3, git, html5, java, javascript, linux, mysql, oracle, photoshop, php, python, typescript
+Skills: angular, bash, c, c++, css3, git, html5, java, javascript, linux, mysql, oracle, photoshop, php, python, typescript
 
 
 
