@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently Studying MCA at **Heritage Institute of Technology Kolkata**
 
-- 🌱 I’m currently learning **Machine Learning, Web Development**
+- 🌱 I’m currently learning **Django and MERN**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Django**
 
 - 📫 How to reach me **linkedin.com/in/adhirajsaha/**
 
