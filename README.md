@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Adhiraj Saha<br>I'm a aspiring Software Dev, from Kolkata, India</h2>
+<h2 align="center">Hi 👋! My name is Adhiraj Saha<br>I'm an aspiring Software Dev, from Kolkata, India</h2>
 
 ###
 
