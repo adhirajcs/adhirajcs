@@ -6,7 +6,7 @@
 
 <h2 align="center">
   Hi 👋! My name is Adhiraj Saha<br>
-  I'm an aspiring Software Dev from Kolkata, India
+  I'm a Software Dev from Kolkata, India
 </h2>
 <h3 align="center">
   Click here to visit my Portfolio Website ->
